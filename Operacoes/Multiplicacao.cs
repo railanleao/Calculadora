@@ -19,6 +19,7 @@ namespace Calculadora.Operacoes
 
             Console.WriteLine($"\n O resultado da sua multiplicação é: {rest}");
             Console.ReadKey();
+            Opcoes.Menu();
         }
     }
 }

@@ -19,7 +19,7 @@ namespace Calculadora.Operacoes
 
             Console.WriteLine($"\n O resultado da sua divisão é: {rest}");
             Console.ReadKey();
-
+            Opcoes.Menu();
         }
     }
 }

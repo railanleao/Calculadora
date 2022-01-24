@@ -19,7 +19,7 @@ namespace Calculadora.Operacoes
 
             Console.WriteLine($"\nO resultado da subtração é: {rest}");
             Console.ReadKey();
-
+            Opcoes.Menu();
 
         }
     }

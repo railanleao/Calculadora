@@ -19,6 +19,7 @@ namespace Calculadora.Operacoes
 
             Console.WriteLine($"\nO resultado da sua soma é:{rest}");
             Console.ReadKey();
+            Opcoes.Menu();
         }
     }
 }
